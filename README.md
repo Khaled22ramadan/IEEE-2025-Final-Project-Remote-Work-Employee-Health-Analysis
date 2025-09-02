@@ -6,13 +6,13 @@ This repository showcases the final project for the IEEE 2025 season, submitted 
 
 ### The interactive dashboard explores key connections between work arrangement and:
 
-  Mental Health Status (Anxiety, Burnout, Stress)
-  
-  Physical Health Issues (Back Pain, Eye Strain, etc.)
-  
-  Work-Life Balance & Social Isolation
-  
-  Trends across different industries, job roles, and regions.
+    Mental Health Status (Anxiety, Burnout, Stress)
+    
+    Physical Health Issues (Back Pain, Eye Strain, etc.)
+    
+    Work-Life Balance & Social Isolation
+    
+    Trends across different industries, job roles, and regions.
 
 Objective: To visualize how remote and hybrid work models correlate with employee well-being and identify key trends for a healthier, more productive workforce.
 
