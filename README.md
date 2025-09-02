@@ -1,5 +1,5 @@
 # IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis
-This repository showcases the final project for the IEEE 2025 season, submitted by #'Khaled Ramadan, Head of Committee'.
+This repository showcases the final project for the IEEE 2025 season, submitted by # Khaled Ramadan, Head of Committee.
 
 # 📊 Power BI Analysis: Project Overview
   This Power BI project analyzes the health impacts of different work arrangements (Remote, Hybrid, Onsite). The analysis is based on a 2025 survey dataset covering employee demographics, work habits, and self-  reported health metrics.
