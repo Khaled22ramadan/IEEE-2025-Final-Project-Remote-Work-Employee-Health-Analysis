@@ -16,7 +16,6 @@ This repository showcases the final project for the IEEE 2025 season, submitted 
 
 Objective: To visualize how remote and hybrid work models correlate with employee well-being and identify key trends for a healthier, more productive workforce.
 
-# Dataset Explaination
 # Remote Work Health Impact 2025 Dataset
 
 This dataset contains survey responses on the impact of different work arrangements on employee health and well-being. The data was collected in 2025 and includes information on mental and physical health, work-life balance, and other relevant factors.
