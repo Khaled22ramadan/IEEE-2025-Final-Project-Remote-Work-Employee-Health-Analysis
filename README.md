@@ -96,8 +96,8 @@ The dataset is in CSV format and contains the following columns:
 ---
 
 ## 4. Gender Insights
-- **Physical health problems:** Females (91.4%) vs Males (—).  
-- **Mental health problems:** Females (75.7%) vs Males (—).  
+- **Physical health problems:** Females (91.4%) vs Males (91%).  
+- **Mental health problems:** Females (75.7%) vs Males (74.1%).  
 - **Work-life balance:** Females (3.01) vs Males (2.9).  
 - **Social isolation:** Males (2.73) vs Females (2.68).  
 
