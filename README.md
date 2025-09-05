@@ -7,6 +7,7 @@ This repository showcases the final project for the IEEE 2025 season,
 ## 🔎 Quick Navigation
 - [📊 Power BI Analysis: Project Overview](#-power-bi-analysis-project-overview)  
 - [📂 Remote Work Health Impact 2025 Dataset](#-remote-work-health-impact-2025-dataset)  
+- [❓ Research Questions](#-research-questions)  
 - [📊 Overview of Survey Responses](#-overview-of-survey-responses)  
 - [🔑 Key Findings](#-key-findings)  
 - [🚀 Implications for Stakeholders](#-implications-for-stakeholders)  
@@ -48,6 +49,59 @@ The dataset is in CSV format and contains the following columns:
 - `Physical_Health_Issues`: Back Pain, Shoulder Pain, Eye Strain, Neck Pain, Wrist Pain, None  
 - `Social_Isolation_Score`: 1–5  
 - `Salary_Range`: $40K–60K, $60K–80K, $80K–100K, $100K–120K, $120K+  
+
+---
+
+# ❓ Research Questions
+
+This project explores the following key questions based on the survey dataset:
+
+## 📊 Overview
+- How many responses were collected in the survey?  
+- What are the average ratings for **work–life balance** and **social isolation**?  
+- Which regions/continents had the highest participation?  
+- Which days are most effective for conducting surveys?  
+- What are the most common **job roles** and **industries** represented?  
+- What is the most common type of **work arrangement** (Onsite, Hybrid, Remote)?  
+- What is the **gender distribution** of survey participants?  
+
+---
+
+## 🏢 Jobs & Industries
+- What percentage of employees report **physical**, **mental**, or **burnout-related (High)** health issues?  
+- Which are the **top 5 jobs** with the highest levels of **mental health problems**?  
+- Which are the **top 5 jobs** with the highest levels of **physical health problems**?  
+- Which industries show the **highest burnout rates**?  
+- How do **mental vs. physical health issues** compare across industries?  
+
+---
+
+## 👩‍💻 Gender & Health
+- Which gender reports higher levels of **physical** and **mental health issues**?  
+- How does the **work–life balance score** differ between genders?  
+- Which gender shows **better work–life balance** and **lower social isolation**?  
+
+---
+
+## 🌍 Regional Insights
+- Which continent has the **highest average work–life balance**?  
+- Which has the **lowest average social isolation**?  
+- Which region shows the **lowest burnout levels**?  
+- Which regions have the **lowest rates of mental and physical health problems**?  
+
+---
+
+## 🧠 Health Conditions
+- What are the **top three most common physical health issues**?  
+- What are the **top three most common mental health issues**?  
+
+---
+
+## 🏠 Work Mode Analysis
+- How does **work mode** (Onsite, Hybrid, Remote) relate to **work–life balance** and **social isolation**?  
+- Which work mode shows the **highest balance** and **lowest isolation**?  
+- What is the overall **distribution of burnout levels**?  
+- Which work mode has the **highest burnout levels**?  
 
 ---
 
@@ -96,8 +150,8 @@ The dataset is in CSV format and contains the following columns:
 ---
 
 ## 4. Gender Insights
-- **Physical health problems:** Females (91.4%) vs Males (91%).  
-- **Mental health problems:** Females (75.7%) vs Males (74.1%).  
+- **Physical health problems:** Females (91.4%) vs Males (—).  
+- **Mental health problems:** Females (75.7%) vs Males (—).  
 - **Work-life balance:** Females (3.01) vs Males (2.9).  
 - **Social isolation:** Males (2.73) vs Females (2.68).  
 
