@@ -1,4 +1,4 @@
-# IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis
+# IEEE-2025-Final-Project-Impact of Work on Employees Health
 This repository showcases the final project for the IEEE 2025 season,  
 *submitted by `Khaled Ramadan, Head of Committee`.*
 
