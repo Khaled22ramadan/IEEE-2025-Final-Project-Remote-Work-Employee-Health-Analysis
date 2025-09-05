@@ -192,3 +192,88 @@ The dataset is in CSV format and contains the following columns:
 * `$80K-100K`
 * `$100K-120K`
 * `$120K+`
+
+____________________________________
+
+# 📊 Overview of Survey Responses
+
+### General Statistics
+- **Total responses:** 3,157  
+- **Average work-life balance:** 3.0 / 5  
+- **Average social isolation:** 2.7 / 5  
+- **Average working hours per week:** 50 hours  
+
+### Highest Participation By
+- **Continent:** South America  
+- **Industry:** Professional Services, Technology  
+- **Job Roles:** Research Scientists, DevOps Engineers  
+- **Work Mode:** Onsite  
+- **Gender:** Male  
+- **Best Survey Days:** Thursday, Wednesday, Sunday  
+
+---
+
+# 🔎 Key Findings
+
+## 1. General Health Insights
+- **Mental health issues reported:** 74.7%  
+- **Physical health issues reported:** 91.1%  
+- **High burnout:** 33%  
+
+**Most common physical issues:**
+- Back pain (54.3%)  
+- Shoulder pain (26%)  
+- Eye strain (13.9%)  
+
+**Most common mental issues:**
+- PTSD (17.9%)  
+- Anxiety (16.7%)  
+- Burnout (16.6%)  
+
+---
+
+## 2. Job Role Insights
+- **Highest mental health issues:** QA (81%), Consultants (80%), Product Managers (79.7%), HR Managers (77.3%), IT Support (77.1%).  
+- **Highest physical health issues:** Research Scientists (92.1%), DevOps Engineers (91.3%), Customer Service Managers (91%), Data Analysts (90.9%), Social Media Managers (88.9%).  
+
+---
+
+## 3. Industry Insights
+- **High burnout:** Technology (39%), Marketing (35.6%), Healthcare (34.4%).  
+- **High physical health problems:** Education (94.1%).  
+- **High mental health problems:** Customer Services (77.5%).  
+- **Lower reported issues:** Retail (lowest physical), Education (lowest mental).  
+
+---
+
+## 4. Gender Insights
+- **Physical health problems:** Females (91.4%) vs Males (—).  
+- **Mental health problems:** Females (75.7%) vs Males (—).  
+- **Work-life balance:** Females (3.01) vs Males (2.9).  
+- **Social isolation:** Males (2.73) vs Females (2.68).  
+
+---
+
+## 5. Regional Insights
+- **Physical health issues:** Highest in Europe (92%), lowest in Oceania (90%).  
+- **Mental health issues:** Highest in Africa (78%), lowest in Oceania (72%).  
+- **High burnout:** Highest in South America (35%), lowest in Africa (31%).  
+- **Work-life balance:** Highest in Asia (3.23), lowest in South America (2.81).  
+- **Social isolation:** Highest in Africa (2.74), lowest in Europe (2.65).  
+
+---
+
+## 6. Work Mode Insights
+- **Most common burnout level:** Medium (43%).  
+- **Highest burnout by mode:** Remote (46% report high burnout).  
+- **Work-life balance:** Highest onsite (3.03), lowest hybrid (2.95).  
+- **Social isolation:** Highest remote (3.5), lowest onsite (2.38).  
+
+---
+
+# 🚀 Implications for Stakeholders
+- **Workload & Hours:** Employees average 50 hours per week → contributes to high physical and mental health issues. Reducing hours and promoting breaks is critical.  
+- **Targeted Support:** Certain roles (QA, Consultants, Research Scientists, DevOps) and industries (Technology, Education, Healthcare) need tailored wellness programs.  
+- **Gender Considerations:** Women report more health issues but better balance; men report more isolation → initiatives should address both.  
+- **Remote Work Challenges:** Remote work offers flexibility but leads to higher burnout and isolation → more support and social connection opportunities are needed.  
+- **Regional Differences:** Asia and Oceania show better scores; Africa and South America need focused intervention strategies.  
