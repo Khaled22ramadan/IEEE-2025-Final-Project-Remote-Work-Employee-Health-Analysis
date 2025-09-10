@@ -11,7 +11,7 @@ This repository showcases the final project for the IEEE 2025 season,
 - [📊 Overview of Survey Responses](#-overview-of-survey-responses)  
 - [🔑 Key Findings](#-key-findings)  
 - [🚀 Implications for Stakeholders](#-implications-for-stakeholders)  
-- [A Guide to Employee Well-being: Addressing Common Health Concerns](#a-guide-to-employee-well-being-addressing-common-health-concerns)
+- 📖 [A Guide to Employee Well-being: Addressing Common Health Concerns](#a-guide-to-employee-well-being-addressing-common-health-concerns)
 ---
 
 # 📊 Power BI Analysis: Project Overview
