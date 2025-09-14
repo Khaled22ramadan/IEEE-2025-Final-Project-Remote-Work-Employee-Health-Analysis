@@ -76,7 +76,7 @@ This project explores the following key questions based on the survey dataset:
 - Which industries show the **highest burnout rates**?  
 - How do **mental vs. physical health issues** compare across industries?  
 
-![Chart showing mental health status by work arrangement(Images/Jobs&Industry_analysis/Screenshot 2025-09-14 094700.png)
+![Images/Jobs&Industry_analysis/Screenshot 2025-09-14 094700.png](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/41eafbfc71babd91021e09cc5c699368f813ab76/Images/Jobs%26Industry_analysis/Screenshot%202025-09-14%20094700.png))
 
 
 ---
