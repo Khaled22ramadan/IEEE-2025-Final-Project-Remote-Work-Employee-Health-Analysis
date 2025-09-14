@@ -121,12 +121,18 @@ This project explores the following key questions based on the survey dataset:
 ![KPIs](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/8319a03fc24e04612f41273a0e8278446a2583e4/Images/Overview/Screenshot%202025-09-14%20093516.png)
 
 ### Highest Participation By
-- **Continent:** South America  ![Highest reponses by Region](Images/Overview/Highest reponses by Region.png)
-- **Industry:** Professional Services, Technology  
-- **Job Roles:** Research Scientists, DevOps Engineers  
-- **Work Mode:** Onsite  
-- **Gender:** Male  
-- **Best Survey Days:** Thursday, Wednesday, Sunday  
+- **Continent:** South America
+![Highest reponses by Region](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/8319a03fc24e04612f41273a0e8278446a2583e4/Images/Overview/Highest%20reponses%20by%20Region.png)
+- **Industry:** Professional Services, Technology, Manufacturing
+![Highes reposnses by Industry](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/7786f6aeb7823365e4d5cfd681adf206bf3af602/Images/Overview/Screenshot%202025-09-14%20093456.png)
+- **Job Roles:** Research Scientists, DevOps Engineers, Customer Servies Manager
+![Highest jobs positions](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/7786f6aeb7823365e4d5cfd681adf206bf3af602/Images/Overview/Screenshot%202025-09-14%20093449.png) 
+- **Work Mode:** Onsite
+![most common workmode in survey](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/7786f6aeb7823365e4d5cfd681adf206bf3af602/Images/Overview/Screenshot%202025-09-14%20093420.png)
+- **Gender:** Male
+![Most Gender participate in survey](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/7786f6aeb7823365e4d5cfd681adf206bf3af602/Images/Overview/Screenshot%202025-09-14%20093429.png) 
+- **Best Survey Days:** Thursday, Wednesday, Sunday
+![Best Days for making survey](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/7786f6aeb7823365e4d5cfd681adf206bf3af602/Images/Overview/Screenshot%202025-09-14%20093439.png)
 
 ---
 
