@@ -64,7 +64,7 @@ This project explores the following key questions based on the survey dataset:
 - What are the most common **job roles** and **industries** represented?  
 - What is the most common type of **work arrangement** (Onsite, Hybrid, Remote)?  
 - What is the **gender distribution** of survey participants?  
-
+![Overview](Images/Overview/Overview.png)
 ---
 
 ## 🏢 Jobs & Industries
