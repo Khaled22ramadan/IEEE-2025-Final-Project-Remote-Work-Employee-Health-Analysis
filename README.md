@@ -122,7 +122,7 @@ This project explores the following key questions based on the survey dataset:
 
 ### Highest Participation By
 - **Continent:** South America
-- 
+
 ![Highest reponses by Region](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/8319a03fc24e04612f41273a0e8278446a2583e4/Images/Overview/Highest%20reponses%20by%20Region.png)
 
 - **Industry:** Professional Services, Technology, Manufacturing
@@ -154,30 +154,52 @@ This project explores the following key questions based on the survey dataset:
 - **Physical health issues reported:** 91.1%  
 - **High burnout:** 33%  
 
+![Diseases %](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/db96e734391588bbf46b5ddff949ec7e944cd42f/Images/Overview/Screenshot%202025-09-14%20103438.png)
+
 **Most common physical issues:** Back pain (54.3%), Shoulder pain (26%), Eye strain (13.9%)  
+
+![](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/db96e734391588bbf46b5ddff949ec7e944cd42f/Images/Diseases_analysis/Screenshot%202025-09-14%20095010.png)
+
 **Most common mental issues:** PTSD (17.9%), Anxiety (16.7%), Burnout (16.6%)  
+
+![](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/db96e734391588bbf46b5ddff949ec7e944cd42f/Images/Diseases_analysis/Screenshot%202025-09-14%20095001.png)
 
 ---
 
 ## 2. Job Role Insights
-- **Highest mental health issues:** QA (81%), Consultants (80%), Product Managers (79.7%), HR Managers (77.3%), IT Support (77.1%).  
-- **Highest physical health issues:** Research Scientists (92.1%), DevOps Engineers (91.3%), Customer Service Managers (91%), Data Analysts (90.9%), Social Media Managers (88.9%).  
+- **Highest Jobs by mental health issues:** QA (81%), Consultants (80%), Product Managers (79.7%), HR Managers (77.3%), IT Support (77.1%).
+
+![Highest Jobs by mental health issues](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/db96e734391588bbf46b5ddff949ec7e944cd42f/Images/Jobs%26Industry_analysis/Screenshot%202025-09-14%20094623.png)
+  
+- **Highest Jobs by physical health issues:** Research Scientists (92.1%), DevOps Engineers (91.3%), Customer Service Managers (91%), Data Analysts (90.9%), Social Media Managers (88.9%).  
+
+![Highest Jobs by physical health issues](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/db96e734391588bbf46b5ddff949ec7e944cd42f/Images/Jobs%26Industry_analysis/Screenshot%202025-09-14%20094652.png)
 
 ---
 
 ## 3. Industry Insights
-- **High burnout:** Technology (39%), Marketing (35.6%), Healthcare (34.4%).  
+- **High burnout:** Technology (39%), Marketing (35.6%), Healthcare (34.4%).
+
+![Top burn out by level'High'](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/db96e734391588bbf46b5ddff949ec7e944cd42f/Images/Jobs%26Industry_analysis/Screenshot%202025-09-14%20094615.png)
+
 - **High physical health problems:** Education (94.1%).  
 - **High mental health problems:** Customer Services (77.5%).  
 - **Lower reported issues:** Retail (lowest physical), Education (lowest mental).  
+
+![](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/9d6c885a22f068ad93bfd72de31c9e3ef3904017/Images/Jobs%26Industry_analysis/Screenshot%202025-09-14%20104821.png)
 
 ---
 
 ## 4. Gender Insights
 - **Physical health problems:** Females (91.4%) vs Males (91%).  
-- **Mental health problems:** Females (75.7%) vs Males (74%).  
+- **Mental health problems:** Females (75.7%) vs Males (74%).
+
+![](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/9d6c885a22f068ad93bfd72de31c9e3ef3904017/Images/Region%26Gender_analysis/Screenshot%202025-09-14%20094820.png)
+
 - **Work-life balance:** Females (3.01) vs Males (2.9).  
-- **Social isolation:** Males (2.73) vs Females (2.68).  
+- **Social isolation:** Males (2.73) vs Females (2.68).
+
+![](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/9d6c885a22f068ad93bfd72de31c9e3ef3904017/Images/Region%26Gender_analysis/Screenshot%202025-09-14%20094828.png)
 
 ---
 
@@ -188,13 +210,23 @@ This project explores the following key questions based on the survey dataset:
 - **Work-life balance:** Highest in Asia (3.23), lowest in South America (2.81).  
 - **Social isolation:** Highest in Africa (2.74), lowest in Europe (2.65).  
 
+![](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/9d6c885a22f068ad93bfd72de31c9e3ef3904017/Images/Region%26Gender_analysis/Screenshot%202025-09-14%20094846.png)
+
 ---
 
 ## 6. Work Mode Insights
-- **Most common burnout level:** Medium (43%).  
+- **Most common burnout level:** Medium (43%).
+
+![](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/9d6c885a22f068ad93bfd72de31c9e3ef3904017/Images/Diseases_analysis/Screenshot%202025-09-14%20095017.png)
+
 - **Highest burnout by mode:** Remote (46% report high burnout).  
+
+![](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/9d6c885a22f068ad93bfd72de31c9e3ef3904017/Images/Diseases_analysis/Screenshot%202025-09-14%20095026.png)
+
 - **Work-life balance:** Highest onsite (3.03), lowest hybrid (2.95).  
 - **Social isolation:** Highest remote (3.5), lowest onsite (2.38).  
+
+![](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/9d6c885a22f068ad93bfd72de31c9e3ef3904017/Images/Diseases_analysis/Screenshot%202025-09-14%20095041.png)
 
 ---
 ## A Guide to Employee Well-being: Addressing Common Health Concerns
