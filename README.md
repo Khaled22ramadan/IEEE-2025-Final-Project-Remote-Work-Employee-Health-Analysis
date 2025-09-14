@@ -118,8 +118,10 @@ This project explores the following key questions based on the survey dataset:
 - **Average social isolation:** 2.7 / 5  
 - **Average working hours per week:** 50 hours  
 
+![KPIs](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/8319a03fc24e04612f41273a0e8278446a2583e4/Images/Overview/Screenshot%202025-09-14%20093516.png)
+
 ### Highest Participation By
-- **Continent:** South America  
+- **Continent:** South America  ![Highest reponses by Region](Images/Overview/Highest reponses by Region.png)
 - **Industry:** Professional Services, Technology  
 - **Job Roles:** Research Scientists, DevOps Engineers  
 - **Work Mode:** Onsite  
