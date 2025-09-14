@@ -64,7 +64,9 @@ This project explores the following key questions based on the survey dataset:
 - What are the most common **job roles** and **industries** represented?  
 - What is the most common type of **work arrangement** (Onsite, Hybrid, Remote)?  
 - What is the **gender distribution** of survey participants?  
+
 ![Overview](Images/Overview/Overview.png)
+
 ---
 
 ## 🏢 Jobs & Industries
@@ -73,6 +75,8 @@ This project explores the following key questions based on the survey dataset:
 - Which are the **top 5 jobs** with the highest levels of **physical health problems**?  
 - Which industries show the **highest burnout rates**?  
 - How do **mental vs. physical health issues** compare across industries?  
+
+![Jobs & Industries Analysis Overview](Images/Jobs&Industry_analysis/Screenshot 2025-09-14 094700.png)
 
 ---
 
