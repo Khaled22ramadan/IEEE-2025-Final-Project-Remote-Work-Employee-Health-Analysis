@@ -99,14 +99,14 @@ This project explores the following key questions based on the survey dataset:
 ## 🧠 Health Conditions
 - What are the **top three most common physical health issues**?  
 - What are the **top three most common mental health issues**?  
-
 ---
-
 ## 🏠 Work Mode Analysis
 - How does **work mode** (Onsite, Hybrid, Remote) relate to **work–life balance** and **social isolation**?  
 - Which work mode shows the **highest balance** and **lowest isolation**?  
 - What is the overall **distribution of burnout levels**?  
 - Which work mode has the **highest burnout levels**?  
+
+![Diseases&WorkArrangement_Analysis](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/c86e0414df63189d8e73189509dc545d336002b1/Images/Diseases_analysis/Screenshot%202025-09-14%20095054.png)
 
 ---
 
