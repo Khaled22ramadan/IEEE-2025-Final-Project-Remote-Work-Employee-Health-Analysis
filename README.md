@@ -86,6 +86,7 @@ This project explores the following key questions based on the survey dataset:
 - How does the **work–life balance score** differ between genders?  
 - Which gender shows **better work–life balance** and **lower social isolation**?  
 
+![gender_and_Region_Analysis](https://github.com/Khaled22ramadan/IEEE-2025-Final-Project-Remote-Work-Employee-Health-Analysis/blob/182e6e0f7552ad9a66dd72883eaa652439525929/Images/Region%26Gender_analysis/Screenshot%202025-09-14%20094809.png)
 ---
 
 ## 🌍 Regional Insights
